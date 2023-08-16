@@ -32,4 +32,5 @@ This project demonstrates how to implement bulk image upload using Spring Boot f
 5. You can view the uploaded images and their details on the frontend.
 
 ## Project View  
+![20230816_171355](https://github.com/saiinfo/Bulk-Image-Upload-using-Spring-Boot-and-React/assets/26924010/ae598aac-7dea-4ab1-ab3f-60da82426229)
 
